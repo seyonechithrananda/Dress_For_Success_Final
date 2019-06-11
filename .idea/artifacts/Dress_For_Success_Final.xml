@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Dress_For_Success_Final">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dress_For_Success_Final</output-path>
+    <root id="root">
+      <element id="archive" name="Dress_For_Success_Final.jar">
+        <element id="module-output" name="Dress_For_Success_Final" />
+      </element>
+    </root>
+  </artifact>
+</component>
